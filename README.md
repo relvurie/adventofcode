@@ -1,2 +1,2 @@
 # adventofcode
-relverie’s advent of code repository.
+This is just my advent of code repository :)
